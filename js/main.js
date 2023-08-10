@@ -1,4 +1,4 @@
-// --------- Definiciones de funciones -------------------
+// --------- Definiciones de funciones que usan las funciones principales-------------------
 
 // Uso de funcion para comparar elementos de arreglo
 function comparar(a, b) {
